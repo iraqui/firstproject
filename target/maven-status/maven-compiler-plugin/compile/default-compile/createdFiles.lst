@@ -1,0 +1,7 @@
+com/mycompany/transferObject/CustomerDTO.class
+com/mycompany/rest/CustomerController.class
+com/mycompany/service/impl/CustomerServiceImpl.class
+com/mycompany/Application.class
+com/mycompany/service/CustomerService.class
+com/mycompany/repository/CustomerRepository.class
+com/mycompany/domain/Customer.class
